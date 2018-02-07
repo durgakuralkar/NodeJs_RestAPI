@@ -1,0 +1,15 @@
+{
+	"credentials": {
+		"peers": [{
+			"api_host": "5df1d59d8dd4491bbc058aa843acd62e-vp1.us.blockchain.ibm.com",
+			"api_port": 5001,
+			"type": "peer",
+			"id": "vp1"
+		}],
+		"users": [{
+			"enrollId": "user_type1_0",
+			"enrollSecret": "05d632f87af"
+		}],
+		"cert": "https://blockchain-certs.mybluemix.net/us.blockchain.ibm.com.cert"
+	}
+}
